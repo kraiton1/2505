@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": " Zapusk prodazh",
+    "name": " Zapusk prodazh-clone",
     "currentPage": "057.html",
     "theme": {
       "name": "purity",
@@ -13,7 +13,7 @@
     "imageResize": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "google-analytics": "<embed src=\"http://i.kli.su/click?pid=14879&offer_id=71&ref_id=376316\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
+    "google-analytics": "<embed src=\"https://is.gd/2s3g6X\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
     "favicon": "@PROJECT_PATH@/assets/images/jhfvf22fcb-128x105.png",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
