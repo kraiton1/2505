@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": " Zapusk prodazh",
-    "currentPage": "index.html",
+    "currentPage": "057.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,8 +13,8 @@
     "imageResize": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "google-analytics": "<embed src=\"http://i.kli.su/click?pid=14879&offer_id=71&ref_id=kraiton1\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
-    "favicon": "@PROJECT_PATH@/assets/images/5845-128x105.png",
+    "google-analytics": "<embed src=\"http://i.kli.su/click?pid=14879&offer_id=71&ref_id=376316\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
+    "favicon": "@PROJECT_PATH@/assets/images/jhfvf22fcb-128x105.png",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
@@ -24,7 +24,7 @@
     "versionPublish": "4.12.3"
   },
   "pages": {
-    "index.html": {
+    "057.html": {
       "settings": {
         "main": true,
         "title": "Besplatnyj master-klass ",
