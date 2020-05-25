@@ -5,13 +5,14 @@
     "theme": {
       "name": "purity",
       "title": "PurityM",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "google-analytics": "<embed src=\"http://i.kli.su/click?pid=14879&offer_id=71&sub2=kraiton1\" name=\"kraiton1\" width=\"100%\"height=\"1300px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>\n",
+    "google-analytics": "<embed src=\"https://is.gd/xV27bo\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "favicon": "@PROJECT_PATH@/assets/images/5845-128x105.png",
@@ -20,7 +21,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 0,
+    "uniqCompNum": 2,
     "versionPublish": "4.12.3"
   },
   "pages": {
