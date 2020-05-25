@@ -31,7 +31,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n// Get the iframe\nconst iframe = document.getElementById('myIframe');  \n// Reload the iframe\niframe.contentWindow.location.reload();\n<embed src =\"https://is.gd/xV27bo\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>\n",
+    "google-analytics": "\n\n\n<!--embed src =\"https://is.gd/xV27bo\" name=\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed-->\n",
     "favicon": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
