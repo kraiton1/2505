@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Бесплатный мастер-класс ",
+    "name": "Besplatnyj master-klass ",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -28,7 +28,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Запустите свои продажи",
+        "title": "Zapusk prodazh",
         "meta_descr": "Бесплатный мастер-класс \n\nКак запустить продажи в Интернете с нуля\nКак начать бизнес без больших знаний и бюджета\nКак выйти на доход от 100 000 руб в месяц\n",
         "header_custom": "",
         "footer_custom": "",
