@@ -13,7 +13,7 @@
     "imageResize": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "google-analytics": "<embed src=\"http://i.kli.su/click?pid=14879&offer_id=71\" name=\"kraiton1\" width=\"100%\"height=\"1000px\" scrolling=\"Yes\" frameborder=\"1\" align=\"center\"></embed>",
+    "google-analytics": "<html>\n<body style=\"margin:0px; padding: 0px;\">\n<div class=\"myframe\">\n<iframe src=\"https://is.gd/rUNZSz?utm_source=<?php echo $_GET['utm_source'];?>&utm_medium=<?php echo $_GET['utm_medium'];?>&utm_campaign=<?php echo $_GET['utm_campaign'];?>&utm_term=<?php echo $_GET['utm_term'];?>&utm_content=<?php echo $_GET['utm_content'];?>\" frameborder=\"0\" scrolling=\"yes\" height=\"1000px\" width=\"100%\"></iframe>\n</div>\n",
     "favicon": "@PROJECT_PATH@/assets/images/jhfvf22fcb-128x105.png",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -37,7 +37,8 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "uniqCompNum": 0,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
